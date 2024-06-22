@@ -62,7 +62,7 @@ export default {
       races: [],
       selectedType: '',
       selectedRace: '',
-      sortBy: 'asc' // Par défaut, tri par prix croissant
+      sortBy: 'asc'
     }
   },
   mounted() {
